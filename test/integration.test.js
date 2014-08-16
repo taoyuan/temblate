@@ -1,7 +1,5 @@
 "use strict";
 
-var path = require('path');
-
 var Temblate = require('../');
 var t = require('chai').assert;
 
