@@ -1,6 +1,6 @@
 {
   "name": "temblate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Temblate is an extension to handlebars.js",
   "main": "index.js",
   "scripts": {
